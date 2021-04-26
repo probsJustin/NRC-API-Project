@@ -3,12 +3,15 @@ import requests
 # Nuclear Information Gathering API Test
 # Nuclear Regulatory Commission
 # Info A: https://www.nrc.gov/developer.html
+# Info A Documentation: https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf
+
 # International Atomic Energy Agency
 # Info B: https://www.iaea.org/resources/databases/power-reactor-information-system-pris
 
 # Related pypi modules 'nrc_scrape' https://pypi.org/project/nrc-scrape/
 # Related pypi modules 'NuclearTools' https://pypi.org/project/NuclearTools/
 # Related pypi modules 'pyrk' https://bids.berkeley.edu/resources/videos/pyrk-python-package-nuclear-reactor-kinetics
+
 
 class NuclearInformation:
     def __init__(self):
@@ -32,6 +35,33 @@ class NuclearInformation:
     def print_examples(self):
         for x in self.information:
             print(f"[{x}] : ")
+
+    def build_nrc_wb_request(self, query, qn, tab):
+        # TODO: build an example of the request that is included in this
+        base_url = "http://adams.nrc.gov/wba/services/search/advanced/nrc?"
+        request_url = base_url + "q=" + query
+        request_url = request_url + "&qn=" + qn + "&tab=" + tab
+        return requests.get(url=request_url).content
+
+
+'''Example 1: Find all speeches for which Macfarlane appears in the Author Name property. Sort
+the results alphabetically by document title in ascending order.
+Working query - Query link
+Query formatted for screen display
+http://adams.nrc.gov/wba/services/search/advanced/nrc?q=(
+    mode:sections,sections:(
+        filters:(
+            public-library:!t),
+        options:(
+            within-folder:(enable:!f,insubfolder:!f,path:'')
+        ),properties_search_all:!(
+            !(AuthorName,starts,Macfarlane,''),
+            !(DocumentType,starts,Speech,'')
+        )
+    )
+)&qn=New&tab=advanced-search-pars&s=%24title&so=ASC'''
+
+
 
 instance_of_nuclear = NuclearInformation()
 instance_of_nuclear.run_examples()
