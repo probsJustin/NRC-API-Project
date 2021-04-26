@@ -37,7 +37,7 @@ class NuclearInformation:
             print(f"[{x}] : ")
 
     def build_nrc_wb_request(self, query, qn, tab):
-        # TODO: build an example of the request that is included in this
+        # TODO: build an example of the request that is included in this and test it
         base_url = "http://adams.nrc.gov/wba/services/search/advanced/nrc?"
         request_url = base_url + "q=" + query
         request_url = request_url + "&qn=" + qn + "&tab=" + tab
