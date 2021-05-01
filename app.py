@@ -12,6 +12,10 @@ import requests
 # Related pypi modules 'NuclearTools' https://pypi.org/project/NuclearTools/
 # Related pypi modules 'pyrk' https://bids.berkeley.edu/resources/videos/pyrk-python-package-nuclear-reactor-kinetics
 
+# I am planning to build this out to have a UI that has a map where you can see all of the nuclear plants on the globe and click on them and get info
+# I think this is a good idea to use QT as I have already used TK: https://www.qt.io/qt-for-python
+
+
 
 class NuclearInformation:
     def __init__(self):
