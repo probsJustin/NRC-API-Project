@@ -17,6 +17,8 @@ import requests
 # I am going to start with this example/tutorial and then see if I can help the shapefile a bit to see if I can make it better:
 # https://towardsdatascience.com/a-complete-guide-to-an-interactive-geographical-map-using-python-f4c5197e23e0
 
+# other QT tutorials: https://doc.qt.io/qtforpython/examples/index.html
+
 
 class NuclearInformation:
     def __init__(self):
