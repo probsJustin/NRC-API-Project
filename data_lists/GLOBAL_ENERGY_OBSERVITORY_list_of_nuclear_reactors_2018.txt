@@ -1,0 +1,858 @@
+
+ Atucha 1 Nuclear Power Plant Argentina 
+357 
+Argentina 
+Buenos Aires 
+Embalse Nuclear Power Plant Argentina 
+648 
+Argentina 
+Cordoba 
+ Armenia (Metsamor) Nuclaer Power Plant Armenia 
+376 
+Armenia 
+Armavir 
+ Doel (Electrabel) Nuclear Power Plant Belgium 
+2963 
+Belgium 
+East Flanders 
+ Tihange Nuclear Power Plant Belgium 
+3129 
+Belgium 
+Liege 
+ Angra Nuclear Power Plant Brazil 
+2007 
+Brazil 
+Rio de Janeiro 
+ Kozloduy Nuclear Power Plant Bulgaria 
+2000 
+Bulgaria 
+Sofiya  
+ Point Lepreau Nuclear Power Plant Canada 
+680 
+Canada 
+New Brunswick 
+ Bruce Nuclear Power Plant Canada 
+3260 
+Canada 
+Ontario 
+ Darlington Nuclaer Power Plant Canada 
+3736 
+Canada 
+Ontario 
+ Pickering A Nuclear Power Plant Canada 
+2168 
+Canada 
+Ontario 
+ Pickering B Nuclear Power Plant Canada 
+2160 
+Canada 
+Ontario 
+ Gentilly Nuclear Power Plant Canada 
+675 
+Canada 
+Quebec 
+ China Experimental Fast Reactor (CEFR) 
+20 
+China 
+Beijing 
+ Ningde Nuclear Power Plant China 
+4320 
+China 
+Fujian 
+ Fuqing Nuclear Power Plant China 
+4356 
+China 
+Fujian 
+ Guangdong (Daya Bay) Nuclear Power Plant China 
+1968 
+China 
+Guangdong 
+ Lingao Nuclear Power Plant China 
+3980 
+China 
+Guangdong 
+ Yangjiang Nuclear Power Station China 
+5430 
+China 
+Guangdong 
+ Taishan Nuclear Power Plant 
+3500 
+China 
+Guangdong 
+ Fangchenggang Nuclear Power Plant China 
+2000 
+China 
+Guangxi Zhuang 
+ Changjiang Nuclear Power Plant China 
+1200 
+China 
+Hainan 
+ Tianwan (Jiangsu) Nuclear Power Station China 
+2000 
+China 
+Jiangsu 
+ Hongyanhe Nuclear Power Plant China 
+4244 
+China 
+Liaoning 
+ Haiyang Nuclear Power Plant China 
+2252 
+China 
+Shandong 
+ Qinshan Nuclear Power Plant China 
+4310 
+China 
+Zhejiang 
+ Fangjiashan Nuclear Power Plant China 
+2000 
+China 
+Zhejiang 
+ Sanmen Nuclear Power Plant China 
+2314 
+China 
+Zhejiang 
+ Temelin Nuclear Power Plant Czech Republic 
+2026 
+Czech Republic 
+Jihocesky 
+ Dukovany Nuclear Power Plant Czech Republic 
+1760 
+Czech Republic 
+Vysocina 
+ Loviisa Nuclear Power Plant Finland 
+976 
+Finland 
+Southern Finland 
+ Olkiluoto (TVO) Nuclear Power Plant Finland 
+1920 
+Finland 
+Western Finland 
+ Bugey Nuclear Power Plant France 
+3724 
+France 
+Ain 
+ Cruas Nuclear Power Plant France 
+3824 
+France 
+Ardache 
+ Chooz Nuclear Power Plant France 
+3120 
+France 
+Ardennes 
+ Nogent Nuclear Power Plant France 
+2726 
+France 
+Aube 
+ Belleville Nuclear Power Plant France 
+2726 
+France 
+Cher 
+ Tricastin Nuclear Power Plant France 
+3820 
+France 
+Drame 
+ Phenix Nuclear Power Plant France 
+250 
+France 
+Gard 
+ Blayais Nuclear Power Plant France 
+3640 
+France 
+Gironde 
+ Fessenheim Nuclear Power Plant France 
+1840 
+France 
+Haut-Rhin 
+ Saint-Alban Nuclear Power Plant France 
+2782 
+France 
+Isere 
+ Saint-Laurent Nuclear Power Plant France 
+1912 
+France 
+Loir-et-Cher 
+ Chinon Nuclear Power Plant France 
+3816 
+France 
+Loire 
+ Dampierre Nuclear Power Plant France 
+3864 
+France 
+Loiret 
+ Flamanville Nuclear Power Plant France 
+2764 
+France 
+Manche 
+ Cattenom Nuclear Power Plant France 
+5448 
+France 
+Moselle 
+ Gravelines Nuclear Power Plant France 
+5706 
+France 
+Pas-de-Calais 
+ Paluel Nuclear Power Plant France 
+5528 
+France 
+Seine-Maritime 
+ Penly Nuclear Power Plant France 
+2764 
+France 
+Seine-Maritime 
+ Golfech Nuclear Power Plant France 
+2726 
+France 
+Tarn-et-Garonne 
+ Civaux Nuclear Power Plant France 
+3122 
+France 
+Vienne 
+ Neckarwestheim Nuclear Power Plant Germany 
+2235 
+Germany 
+Baden-Wurttemberg 
+ Philippsburg Nuclear Power Plant Germany 
+2384 
+Germany 
+Baden-Wurttemberg 
+ Grafenrheinfeld Nuclear Power Plant Germany 
+1345 
+Germany 
+Bavaria 
+ Gundremmingen Nuclear Power Plant Germany 
+2688 
+Germany 
+Bavaria 
+ Isar Nuclear Power Plant Germany 
+2387 
+Germany 
+Bavaria 
+ Biblis Nuclear Power Plant Germany 
+2525 
+Germany 
+Hesse 
+ Emsland Nuclear Power Plant Germany 
+1400 
+Germany 
+Lower Saxony 
+ Grohnde Nuclear Power Plant Germany 
+1430 
+Germany 
+Lower Saxony 
+ Unterweser Nuclear Power Plant Germany 
+1410 
+Germany 
+Saxony 
+ Brokdorf Nuclear Power Plant Germany 
+1440 
+Germany 
+Schleswig-Holstein 
+ Brunsbuettel Nuclear Power Plant Germany 
+806 
+Germany 
+Schleswig-Holstein 
+ Kruemmel Nuclear Power Plant Germany 
+1316 
+Germany 
+Schleswig-Holstein 
+ Paks Nuclear Power Plant Hungary 
+1866 
+Hungary 
+Tolna 
+ Kakrapar Atomic Power Station India 
+440 
+India 
+Gujarat 
+ Kaiga Atomic Power Station India 
+880 
+India 
+Karnataka 
+ Tarapur Atomic Power Station India 
+1400 
+India 
+Maharashtra 
+ Rajasthan Atomic Power Station Rawatbhata India 
+1180 
+India 
+Rajasthan 
+ Kalpakkam (Madras) Atomic Power Station India 
+440 
+India 
+Tamil Nadu 
+ Kudankulam Nuclear Power Plant (KNPP) India 
+2000 
+India 
+Tamil Nadu 
+ Narora Atomic Power Station India 
+440 
+India 
+Uttar Pradesh 
+ Bushehr Nuclear Power Plant Iran 
+1000 
+Islamic Republic of Iran 
+Bushehr 
+ Higashi Dori-1 (Tohoku) Nuclear Power Plant Japan 
+1067 
+Japan 
+Aomori 
+ Ikata Nuclear Power Station Japan 
+2022 
+Japan 
+Ehime 
+ Mihama Nuclear Power Plant Japan 
+780 
+Japan 
+Fukui 
+ Ohi Nuclear Power Plant Japan 
+4710 
+Japan 
+Fukui 
+ Takahama Nuclear Power Plant Japan 
+3392 
+Japan 
+Fukui 
+ Tsuruga Nuclear Power Plant Japan 
+1115 
+Japan 
+Fukui 
+ Fukushima Daiichi Nuclear Power Plant Japan 
+1827 
+Japan 
+Fukushima 
+ Fukushima Daini Nuclear Power Plant Japan 
+4400 
+Japan 
+Fukushima 
+ Tomari Nuclear Power Plant Japan 
+1158 
+Japan 
+Hokkaido 
+ Tokai II Nuclear Power Plant Japan 
+1100 
+Japan 
+Ibaraki 
+ Shika Nuclear Power Plant Japan 
+1898 
+Japan 
+Ishikawa 
+ Sendai Nuclear Power Plant Japan 
+1780 
+Japan 
+Kagoshima 
+ Onagawa Nuclear Power Plant Japan 
+2174 
+Japan 
+Miyagi 
+ Kashiwazaki Kariwa Nuclear Power Plant Japan 
+8212 
+Japan 
+Niigata 
+ Genkai Nuclear Power Plant Japan 
+2783 
+Japan 
+Saga 
+ Shimane Nuclear Power Plant Japan 
+789 
+Japan 
+Shimane 
+ Hamaoka-cho Nuclear Power Plant Japan 
+4997 
+Japan 
+Shizuoka 
+ Ignalina Nuclear Power Plant Lithuania 
+1300 
+Lithuania 
+Utena 
+ Laguna Verde Nuclear Power Plant Mexico 
+1364 
+Mexico 
+Veracruz 
+ Borssele Nuclear Power Plant Netherlands 
+515 
+Netherlands 
+Zeeland 
+ Chasnupp Nuclear Power Plant Pakistan 
+1230 
+Pakistan 
+Punjab 
+ Kanupp Nuclear Power Reactor Pakistan 
+137 
+Pakistan 
+Sindh 
+ Lungmen Nuclear Power Plant Taiwan 
+2700 
+Republic of China Taiwan 
+Taipei 
+ Chinshan Nuclear Power Plant Taiwan 
+1272 
+Republic of China Taiwan 
+Taiwan 
+ Kuosheng Nuclear Power Plant Taiwan 
+1936 
+Republic of China Taiwan 
+Taiwan 
+ Maanshan Nuclear Power Plant Taiwan 
+1780 
+Republic of China Taiwan 
+Taiwan 
+ Shin-Kori Nuclear Power Plant South Korea 
+3495 
+Republic of Korea 
+Busan 
+ Shin-Wolsong Nuclear Power Plant South Korea 
+2000 
+Republic of Korea 
+Gyeongsangbuk-do 
+ Hanul (Ulchin) Nuclear Power Plant Korea 
+6159 
+Republic of Korea 
+Gyeongsangbuk-do 
+ Wolsong Nuclear Power Plant Korea 
+2811 
+Republic of Korea 
+Gyeongsangbuk-do 
+ Kori Nuclear Power Plant Korea 
+2633 
+Republic of Korea 
+Gyeongsangnam-do 
+ Hanbit (Yonggwang) Nuclear Power Plant South Korea 
+6000 
+Republic of Korea 
+Jeollabuk-do 
+ Cernavoda Nuclear Power Plant Romania 
+1412 
+Romania 
+Constanta 
+ Bilibino Nuclear Power Plant  Russia 
+48 
+Russian Federation 
+Chukot 
+ Kursk Nuclear Power Plant Russia 
+4000 
+Russian Federation 
+Kursk 
+ Kola Nuclear Power Plant Russia 
+1360 
+Russian Federation 
+Murmansk 
+ Rostov (Volgodonsk) Nuclear Power Plant Russia 
+2000 
+Russian Federation 
+Rostov 
+ Leningrad Nuclear Power Plant Russia 
+4000 
+Russian Federation 
+Saint Petersburg City 
+ Balakovo Nuclear Power Plant  Russia 
+4000 
+Russian Federation 
+Saratov 
+ Kalinin Nuclear Power Plant Russia 
+4000 
+Russian Federation 
+Saratov 
+ Smolensk Nuclear Power Plant Russia 
+3000 
+Russian Federation 
+Smolensk 
+ Beloyarskiy Nuclear Power Plant Russia 
+600 
+Russian Federation 
+Sverdlovsk 
+ Novovoronezh Nuclear Power Plant Russia 
+1834 
+Russian Federation 
+Voronezh 
+ Mochovce Nuclear Power Plant Slovakia 
+880 
+Slovakia 
+Nitra 
+ Bohunice Nuclear Power Plant Slovakia 
+880 
+Slovakia 
+Trnava 
+ Krsko Nuclear Power Reactor Slovenia 
+730 
+Slovenia 
+Krsko 
+ SAFARI-1 Research Reactor South Africa 
+20 
+South Africa 
+Gauteng 
+ Koeberg Nuclear Power Plant South Africa 
+1888 
+South Africa 
+Western Cape 
+ Santa Maria de Garona Nuclear Power Plant Spain (Shutdown) 
+466 
+Spain 
+Castile and Leon  
+ Jose Cabrera ES-1 (Zorita) Nuclear Power Plant Spain (Shutdown) 
+ 
+Spain 
+Castile-La Mancha 
+ Trillo Nuclear Power Plant Spain 
+1066 
+Spain 
+Castile-La Mancha 
+ Asco Nuclear Power Plant Spain 
+2060 
+Spain 
+Catalonia 
+ Vandellos Nuclear Power Plant Spain 
+1087 
+Spain 
+Catalonia 
+ Almaraz Nuclear Power Plant Spain 
+2090 
+Spain 
+Extremadura  
+ Cofrentes Nuclear Power Plant Spain 
+1092 
+Spain 
+Valencia 
+ Ringhals Nuclear Power Plant Sweden 
+3832 
+Sweden 
+Halland 
+ Oskarshamn Nuclear Power Plant Sweden 
+1400 
+Sweden 
+Kalmar 
+ Forsmark Nuclear Power Plant Sweden 
+3275 
+Sweden 
+Uppsala 
+ Beznau Nuclear Power Plant Switzerland 
+760 
+Switzerland 
+Aargau 
+ Leibstadt Nuclear Power Plant Switzerland 
+1220 
+Switzerland 
+Aargau 
+ Muehlberg Nuclear Power Plant Switzerland 
+372 
+Switzerland 
+Bern 
+ Goesgen Nuclear Power Plant Switzerland 
+1020 
+Switzerland 
+Fribourg 
+ South Ukraine Nuclear Power Plant Ukraine 
+3000 
+Ukraine 
+Mykolayiv 
+ Khmelnitskiy Nuclear Power Plant Ukraine 
+2000 
+Ukraine 
+Rivne 
+ Rovno (Rivne) Nuclear Power Plant Ukraine 
+2835 
+Ukraine 
+Rivne 
+ Zaporozhye Nuclear Power Plant Ukraine 
+6000 
+Ukraine 
+Zaporizhzhya 
+ Hartlepool Nuclear Power Plant United Kingdom 
+1310 
+United Kingdom 
+Durham 
+ Hunterston-B Nuclear Power Plant United Kingdom 
+1288 
+United Kingdom 
+East Ayrshire 
+ Torness Nuclear Power Plant United Kingdom 
+1364 
+United Kingdom 
+East Lothian 
+ Oldbury Nuclear Power Plant United Kingdom (Shutdown) 
+ 
+United Kingdom 
+Gloucestershire 
+ Dungeness A and B Nuclear Power Plant United Kingdom 
+1230 
+United Kingdom 
+Kent 
+ Heysham Nuclear Power Plant United Kingdom 
+2610 
+United Kingdom 
+Lancashire 
+ Hinkley Point B Nuclear Power Plant United Kingdom 
+1310 
+United Kingdom 
+Somerset 
+ Sizewell A Nuclear Power Plant UK (Shutdown) 
+ 
+United Kingdom 
+Suffolk 
+ Sizewell B Nuclear Power Plant United Kingdom 
+1250 
+United Kingdom 
+Suffolk 
+ Wylfa Nuclear Power Plant United Kingdom 
+1080 
+United Kingdom 
+Swansea 
+ Browns Ferry Nuclear Power Plant United States of America 
+3702 
+United States of America 
+Alabama 
+ Joseph M. Farley Nuclear Power Plant United States of America 
+1800 
+United States of America 
+Alabama 
+ Palo Verde Nuclear Power Plant United States of America 
+4174 
+United States of America 
+Arizona 
+ Arkansas Nuclear Power Plant United States of America 
+1920 
+United States of America 
+Arkansas 
+ Diablo Canyon Nuclear Power Plant United States of America 
+2300 
+United States of America 
+California 
+ San Onofre Nuclear Power Plant United States of America 
+2254 
+United States of America 
+California 
+ Millstone Nuclear Power Plant United States of America 
+2163 
+United States of America 
+Connecticut 
+ Hope Creek Nuclear Power Plant United States of America 
+1139 
+United States of America 
+Delaware 
+ Salem Nuclear Power Plant United States of America 
+2398 
+United States of America 
+Delaware 
+ Crystal River Nuclear Power Plant United States of America 
+890 
+United States of America 
+Florida 
+ Saint Lucie Nuclear Power Plant United States of America 
+1766 
+United States of America 
+Florida 
+ Turkey Point Nuclear Power Plant United States of America 
+1458 
+United States of America 
+Florida 
+ Edwin I. Hatch Nuclear Power Plant United States of America 
+1819 
+United States of America 
+Georgia 
+ Vogtle Nuclear Power Plant United States of America 
+2405 
+United States of America 
+Georgia 
+ Braidwood Nuclear Power Plant United States of America 
+2453 
+United States of America 
+Illinois 
+ Byron Nuclear Power Plant United States of America 
+2421 
+United States of America 
+Illinois 
+ Clinton Nuclear Power Plant United States of America 
+1098 
+United States of America 
+Illinois 
+ Dresden Nuclear Power Plant United States of America 
+1826 
+United States of America 
+Illinois 
+ LaSalle Nuclear Power Plant United States of America 
+2356 
+United States of America 
+Illinois 
+ Quad Cities Nuclear Power Plant United States of America 
+1826 
+United States of America 
+Illinois 
+ Duane Arnold Nuclear Power Plant United States of America 
+614 
+United States of America 
+Iowa 
+ Wolf Creek Nuclear Power Plant United States of America 
+1213 
+United States of America 
+Kansas 
+ River Bend Nuclear Power Plant United States of America 
+1036 
+United States of America 
+Louisiana 
+ Waterford Nuclear Power Plant United States of America 
+1200 
+United States of America 
+Louisiana 
+ Calvert Cliffs Nuclear Power Plant United States of America 
+1827 
+United States of America 
+Maryland 
+ Pilgrim Nuclear Power Plant United States of America 
+711 
+United States of America 
+Massachusetts 
+ Donald C. Cook Nuclear Power Plant United States of America 
+2210 
+United States of America 
+Michigan 
+ Palisades Nuclear Power Plant United States of America 
+842 
+United States of America 
+Michigan 
+ Monticello Nuclear Power Plant United States of America 
+600 
+United States of America 
+Minnesota 
+ Prairie Island Nuclear Power Plant United States of America 
+1110 
+United States of America 
+Minnesota 
+ Grand Gulf Nuclear Power Plant United States of America 
+1333 
+United States of America 
+Mississippi 
+ Callaway Nuclear Power Plant United States of America 
+1236 
+United States of America 
+Missouri 
+ Cooper Nuclear Power Plant United States of America 
+801 
+United States of America 
+Nebraska 
+ Fort Calhoun Nuclear Power Plant United States of America 
+512 
+United States of America 
+Nebraska 
+ Seabrook Nuclear Power Plant United States of America 
+1296 
+United States of America 
+New Hampshire 
+ Oyster Creek Nuclear Power Plant United States of America 
+652 
+United States of America 
+New Jersey 
+ Fitzpatrick Nuclear Power Plant USA 
+882 
+United States of America 
+New York 
+ Indian Point Nuclear Power Plant United States of America 
+2127 
+United States of America 
+New York 
+ Nine Mile Point Nuclear Power Plant United States of America 
+652 
+United States of America 
+New York 
+ R.E. Ginna Nuclear Power Plant United States of America 
+608 
+United States of America 
+New York 
+ Brunswick Nuclear Power Plant United States of America 
+1979 
+United States of America 
+North Carolina 
+ McGuire Nuclear Power Plant United States of America 
+2316 
+United States of America 
+North Carolina 
+ Shearon Harris Nuclear Power Plant United States of America 
+960 
+United States of America 
+North Carolina 
+ Davis-Besse Nuclear Power Plant United States of America 
+925 
+United States of America 
+Ohio 
+ Enrico Fermi Nuclear Power Plant United States of America 
+1154 
+United States of America 
+Ohio 
+ Perry Nuclear Power Plant United States of America 
+1303 
+United States of America 
+Ohio 
+ Beaver Valley Nuclear Power Plant United States of America 
+1856 
+United States of America 
+Pennsylvania 
+ Limerick Nuclear Power Plant United States of America 
+2388 
+United States of America 
+Pennsylvania 
+ Peach Bottom Nuclear Power Plant United States of America 
+2342 
+United States of America 
+Pennsylvania 
+ Susquehanna Nuclear Power Plant United States of America 
+2403 
+United States of America 
+Pennsylvania 
+ Three Mile Island I Nuclear Power Plant United States of America 
+837 
+United States of America 
+Pennsylvania 
+ Catawba Nuclear Power Plant United States of America 
+2376 
+United States of America 
+South Carolina 
+ H. B. Robinson Nuclear Power Plant United States of America 
+745 
+United States of America 
+South Carolina 
+ Oconee Nuclear Power Plant United States of America 
+2673 
+United States of America 
+South Carolina 
+ Virgil C. Summer Nuclear Power Plant United States of America 
+1003 
+United States of America 
+South Carolina 
+ Sequoyah Nuclear Power Plant United States of America 
+2442 
+United States of America 
+Tennessee 
+ Watts Bar Nuclear Power Plant United States of America 
+1202 
+United States of America 
+Tennessee 
+ Comanche Peak Nuclear Power Plant United States of America 
+2378 
+United States of America 
+Texas 
+ South Texas Project Nuclear Power Plant United States of America 
+2708 
+United States of America 
+Texas 
+ Vermont Yankee Nuclear Power Plant United States of America 
+650 
+United States of America 
+Vermont 
+ North Anna Nuclear Power Plant United States of America 
+1931 
+United States of America 
+Virginia 
+ Surry Nuclear Power Plant United States of America 
+1696 
+United States of America 
+Virginia 
+ Columbia Nuclear Power Plant United States of America 
+1200 
+United States of America 
+Washington 
+ Kewaunee Nuclear Power Plant United States of America 
+581 
+United States of America 
+Wisconsin 
+ Point Beach Nuclear Power Plant United States of America 
+1086 
+United States of America 
+Wisconsin 
+

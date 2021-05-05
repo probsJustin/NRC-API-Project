@@ -19,6 +19,10 @@ import requests
 
 # other QT tutorials: https://doc.qt.io/qtforpython/examples/index.html
 
+# Nuclear power plant list from the global energy observatory: http://globalenergyobservatory.org/list.php?db=PowerPlants&type=Nuclear
+# Database tools for global energy observatory: http://globalenergyobservatory.org/docs/Overview_of_Structure.php
+
+# it looks like there is a good tool to get this: https://github.com/Open-Power-System-Data/conventional_power_plants/blob/2020-10-01/main.ipynb
 
 class NuclearInformation:
     def __init__(self):
