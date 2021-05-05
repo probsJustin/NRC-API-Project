@@ -24,4 +24,4 @@
 # it looks like there is a good tool to get this: https://github.com/Open-Power-System-Data/conventional_power_plants/blob/2020-10-01/main.ipynb
 
 # TODO: need to identify a way to make a global clickable map that has pin points on it. I am thinking I might stick with QT
-# Here are some examples for the map viewer for QT - perhaps we could do something like this? 
+# Here are some examples for the map viewer for QT - perhaps we could do something like this?

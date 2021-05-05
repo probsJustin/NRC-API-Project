@@ -8,6 +8,11 @@ class general_location():
         self.state = ""
         self.province = ""
         self.country = ""
+        self.design_capacity = ""
+
+    def __repr__(self):
+        return f'{self.common_name}, {self.country}, {self.state}, {self.design_capacity}'
+
 
     def returnCordinates(self):
         return self.cordinates
