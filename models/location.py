@@ -4,14 +4,24 @@ class general_location():
     def __init__(self):
         self.cordinates = dict()
         self.common_name = ""
+        self.common_name_global_energy_observatory = ""
         self.government_owner = ""
         self.state = ""
         self.province = ""
         self.country = ""
         self.design_capacity = ""
+        self.docket_number = ""
+        self.license_number = ""
+        self.reactor_type = ""
+        self.location = ""
+        self.owner = ""
+        self.NRC_region = ""
 
     def __repr__(self):
-        return f'{self.common_name}, {self.country}, {self.state}, {self.design_capacity}'
+        if self.common_name == "":
+            return f'{self.common_name_global_energy_observatory}, {self.country}, {self.state}, {self.design_capacity}'
+        else:
+            return f'{self.common_name}, {self.country}, {self.state}, {self.design_capacity}'
 
 
     def returnCordinates(self):
