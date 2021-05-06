@@ -1,3 +1,13 @@
+Plant Name<br />
+Docket Number</th>
+License Number</th>
+Reactor<br />
+Type</th>
+Location</th>
+Owner/Operator</th>
+NRC Region</th>
+
+
 Arkansas Nuclear 1
 05000313
 DPR-51

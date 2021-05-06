@@ -16,6 +16,10 @@ class general_location():
         self.location = ""
         self.owner = ""
         self.NRC_region = ""
+        self.license_expiration_date = ""
+        self.core_size = ""
+        self.reactor_vendor = ""
+        self.retirement = ""
 
     def __repr__(self):
         if self.common_name == "":

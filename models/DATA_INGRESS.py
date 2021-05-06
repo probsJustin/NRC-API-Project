@@ -32,5 +32,18 @@ for count, x in enumerate(temp_ingress_data, 0):
         tempLocation.NRC_region = temp_ingress_data[count + 5].replace('\n', '')
         temp_data_ingress.data_for_export.append(tempLocation)
 
+temp_ingress_data = temp_data_ingress.load_data("../data_lists/SCRAPED_EIA_list_of_US_nuclear_reactors_2018.txt")
+for count, x in enumerate(temp_ingress_data, 0):
+    if(count % 10 == 0):
+        tempLocation = location.general_location()
+        tempLocation.common_name = x.replace('\n', '')
+        tempLocation.state = temp_ingress_data[count + 1].replace('\n', '')
+        tempLocation.reactor_type = temp_ingress_data[count + 2].replace('\n', '')
+        tempLocation.reactor_vendor = temp_ingress_data[count + 3].replace('\n', '')
+        tempLocation.core_size = temp_ingress_data[count + 4].replace('\n', '')
+        tempLocation.license_expiration_date = temp_ingress_data[count + 6].replace('\n', '')
+        tempLocation.retirement = temp_ingress_data[count + 8].replace('\n', '')
+        temp_data_ingress.data_for_export.append(tempLocation)
+
 for x in temp_data_ingress.data_for_export:
     print(x)
