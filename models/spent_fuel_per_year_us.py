@@ -14,7 +14,7 @@ class year_of_spent_fuel:
         self.all_discharged_assemblies[1] = "All Discharged Assemblies : "
 
     def __repr__(self):
-        rO = f'US Spent Fuel For {self.year[1]}, {self.number_of_assemblies[1] + self.number_of_assemblies[0]}'
+        rO = f'US Spent Fuel For {self.year[1] + self.year[0]} {self.number_of_assemblies[1] + self.number_of_assemblies[0]}'
         rO = rO + f' {self.initial_uranium_content[1] + self.initial_uranium_content[0]}'
         rO = rO + f' {self.average_burnup[1] + self.average_burnup[0]}'
         rO = rO + f' {self.all_discharged_assemblies[1] + self.all_discharged_assemblies[0]}'

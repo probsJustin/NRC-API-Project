@@ -53,6 +53,8 @@ for count, x in enumerate(temp_ingress_data, 0):
         temp_fuel_count = spent_fuel.year_of_spent_fuel()
         if count > 11 and count < 500:
             temp_fuel_count.setData(temp_ingress_data[count - 4], temp_ingress_data[count - 3], temp_ingress_data[count - 2], temp_ingress_data[count - 1], temp_ingress_data[count])
+            temp_data_ingress.data_for_export_spent_fuel_per_year_us.append(temp_fuel_count)
 
-
+for x in temp_data_ingress.data_for_export_spent_fuel_per_year_us:
+    print(x)
 
