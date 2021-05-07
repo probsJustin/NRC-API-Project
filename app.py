@@ -25,3 +25,5 @@
 
 # TODO: need to identify a way to make a global clickable map that has pin points on it. I am thinking I might stick with QT
 # Here are some examples for the map viewer for QT - perhaps we could do something like this?
+
+# REGEX for stripping html from text: <[^>]*>
