@@ -1,8 +1,10 @@
 import models.location as location
+import models.spent_fuel_per_year_us as spent_fuel
 
 class DATA_INGRESS():
     def __init__(self):
         self.data_for_export = list()
+        self.data_for_export_spent_fuel_per_year_us = list()
 
     def load_data(self, filename):
         with open(filename) as f:
@@ -45,5 +47,12 @@ for count, x in enumerate(temp_ingress_data, 0):
         tempLocation.retirement = temp_ingress_data[count + 8].replace('\n', '')
         temp_data_ingress.data_for_export.append(tempLocation)
 
-for x in temp_data_ingress.data_for_export:
-    print(x)
+temp_ingress_data = temp_data_ingress.load_data("../data_lists/SCRAPED_EIA_list_of_spent_fuel_per_year_US.txt")
+for count, x in enumerate(temp_ingress_data, 0):
+    if(count % 11 == 0):
+        temp_fuel_count = spent_fuel.year_of_spent_fuel()
+        if count > 11 and count < 500:
+            temp_fuel_count.setData(temp_ingress_data[count - 4], temp_ingress_data[count - 3], temp_ingress_data[count - 2], temp_ingress_data[count - 1], temp_ingress_data[count])
+
+
+
