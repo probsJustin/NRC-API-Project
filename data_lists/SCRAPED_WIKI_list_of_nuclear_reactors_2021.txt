@@ -2,8 +2,7 @@
 
 
 
-Argentina[edit]
-.mw-parser-output .locmap .od{position:absolute}.mw-parser-output .locmap .id{position:absolute;line-height:0}.mw-parser-output .locmap .l0{font-size:0;position:absolute}.mw-parser-output .locmap .pv{line-height:110%;position:absolute;text-align:center}.mw-parser-output .locmap .pl{line-height:110%;position:absolute;top:-0.75em;text-align:right}.mw-parser-output .locmap .pr{line-height:110%;position:absolute;top:-0.75em;text-align:left}.mw-parser-output .locmap .pv>div{display:inline;padding:1px}.mw-parser-output .locmap .pl>div{display:inline;padding:1px;float:right}.mw-parser-output .locmap .pr>div{display:inline;padding:1px;float:left}EmbalseAtucha I&#160;Atucha II Nuclear power stations in Argentina (view)&#160;Active plants
+Argentina
 Main article: Nuclear power in Argentina
 
 
@@ -101,7 +100,7 @@ Under construction
 
 
 
-Armenia[edit]
+Armenia
 Main article: Nuclear power in Armenia
 
 
@@ -162,7 +161,7 @@ Planned
 (2023)
 
 
-Austria[edit]
+Austria
 Main article: Nuclear energy in Austria
 
 
@@ -201,7 +200,7 @@ April 1972
 
 5 November 1978
 
-Bangladesh[edit]
+Bangladesh
 Main article: Nuclear energy in Bangladesh
 
 
@@ -251,7 +250,7 @@ Under construction
 (2024)
 
 
-Belarus[edit]
+Belarus
 Main article: Nuclear power in Belarus
 
 
@@ -324,7 +323,7 @@ Unfinished
 
 1987
 
-Belgium[edit]
+Belgium
 Main article: Nuclear energy in Belgium
 DoelTihangeMol Belgium nuclear power plants (view)&#160;Active plants&#160;Closed plants
 
@@ -445,7 +444,7 @@ Operational
 1 September 1985
 (2025)
 
-Brazil[edit]
+Brazil
 Main article: Nuclear power in Brazil
 
 
@@ -506,7 +505,7 @@ Under construction
 
 
 
-Bulgaria[edit]
+Bulgaria
 Main article: Nuclear power in Bulgaria
 BeleneKozloduy Nuclear power plants in Bulgaria (view)&#160;Active plants&#160;Unfinished/future plants
 
@@ -626,7 +625,7 @@ Unfinished
 
 
 
-Canada[edit]
+Canada
 Main article: Nuclear power in Canada
 Bruce&#160;A/BDouglas&#160;PointGentillyNPDPickering&#160;A/BDarlingtonPoint Lepreau Nuclear plants in Canada (view)&#160;Active plants&#160;Closed plants
 
@@ -936,7 +935,7 @@ May 1975
 1 February 1983
 (2041)
 
-China[edit]
+China
 Main article: Nuclear power in China
 Ling AoDaya BayQinshanFangjiashanTianwanHTTRHaiyangNingdeSanmenYangjiangHongyanheFuqingTaishanFangchenggangHongshidingPengzeShidaowanTaohuajiangXianningXiaomoshanWuhuChangjiangXudabaoZhangzhou Nuclear power plants in China (view)&#160;Active plants&#160;Under construction plants&#160;Firmly planned plants
 
@@ -2647,7 +2646,7 @@ Operational and Under Constuction Units' data based on IAEA's PRIS system
 
 
 
-Cuba[edit]
+Cuba
 
 
 
@@ -2696,7 +2695,7 @@ Unfinished
 
 5 September 1992
 
-Czech Republic[edit]
+Czech Republic
 Main article: Nuclear power in the Czech Republic
 DukovanyTemelín Nuclear power stations in the Czech Republic (view)&#160;Active plants&#160;Planned plants
 
@@ -2827,7 +2826,7 @@ Planned
 
 
 
-Egypt[edit]
+Egypt
 Main article: Nuclear program of Egypt
 
 
@@ -2899,7 +2898,7 @@ Planned
 
 
 
-Finland[edit]
+Finland
 OlkiluotoLoviisaHanhikivi Nuclear power plants in Finland (view)&#160;Active plants&#160;Planned plants
 Main article: Nuclear power in Finland
 
@@ -2998,7 +2997,7 @@ Under construction
 (February 2022&#91;33&#93;&#91;34&#93;)
 
 
-France[edit]
+France
 Main article: Nuclear power in France
 BellevilleBlayaisBrennilisBugeyCattenomChinonChoozCivauxCruasDampierreFessenheimFlamanvilleGolfechGravelinesMarcoule/PhénixNogentPaluelPenlySaint-AlbanSaint-&#160;LaurentSuperphénixTricastin Fission-electric stations in France (view)&#160;Active plants&#160;Closed plants
 
@@ -3808,7 +3807,7 @@ Operational
 1 November 1981
 
 
-Germany[edit]
+Germany
 Main article: Nuclear power in Germany
 AVRBiblisBrokdorfBrunsbüttelEmslandGrafenrheinfeldGreifswaldGrohndeGroßwelzheim/KahlGundremmingenIsarKalkarKNK&#160;II/MZFRKrümmelLingenMülheim&#8209;KärlichNeckarwestheimNiederaichbachObrigheimPhilippsburgRheinsbergStadeStendalTHTR-300UnterweserWürgassen Nuclear power plants in Germany (view)&#160;Active plants&#160;Closed plants&#160;Unfinished plants
 
@@ -4333,7 +4332,7 @@ Shut down/in decommissioning
 Notes:
 ^a  Post-Fukushima shutdown of eight reactors. On 15 March 2011, the German Government decided to close seven nuclear power plants built before 1980 along with the Krümmel nuclear power plant for a duration of three months.&#91;38&#93; The temporary shutdown was changed into permanent shutdown by the German parliament on 30 June 2012. The remaining nine plants that stayed operational were given new decommissioning dates.&#91;39&#93;
 
-Hungary[edit]
+Hungary
 Main article: Nuclear energy in Hungary
 
 
@@ -4429,7 +4428,7 @@ Planned
 
 The modernization of the four reactors was finally ended at 2009, so the plant's total power generation reached 2000 MWe.
 
-India[edit]
+India
 BARCKaiga &#160;KakraparChennaiKudankulamNaroraRajasthanTarapurJaitapurChutkaBanswaraGorakhpurKovvada Atomic Power Stations in India (view)&#160;Active plants&#160;Planned plants
 Main article: Nuclear power in India
 
@@ -5188,7 +5187,7 @@ Operational
 12 September 2005
 
 
-Indonesia[edit]
+Indonesia
 Main article: Nuclear power in Indonesia
 
 
@@ -5283,7 +5282,7 @@ Planned
 (2030)
 
 
-Iran[edit]
+Iran
 Main article: Nuclear program of Iran
 
 
@@ -5378,7 +5377,7 @@ Unfinished; restart planned
 
 
 
-Italy[edit]
+Italy
 Main article: Nuclear power in Italy
 GariglianoCaorsoEnricoFermiLatinaMontalto Nuclear power stations in Italy (view)&#160;Closed plants&#160;Canceled plants
 
@@ -5480,7 +5479,7 @@ Unfinished
 
 1 July 1988
 
-Japan[edit]
+Japan
 Main article: Nuclear power in Japan
 Fukushima&#160;I,&#160;IIGenkaiHamaokaIkataKashiwazaki-KariwaMihamaMonju→↑ŌiOnagawaSendaiShikaShimane↗TakahamaTōkaiTomari←Tsuruga/FugenHigashidōriŌmaNamie-OdakaKaminoseki Nuclear power plants in Japan (view)&#160;Active plants&#160;Inactive plants&#160;Decommissioned plants&#160;Planned plants
 
@@ -6232,7 +6231,7 @@ Operation suspended(under review)&#91;49&#93;
 17 February 1987
 
 
-Kazakhstan[edit]
+Kazakhstan
 Main article: Nuclear energy in Kazakhstan
 
 
@@ -6294,7 +6293,7 @@ Planned
 
 
 
-Lithuania[edit]
+Lithuania
 Main article: Nuclear energy in Lithuania
 
 
@@ -6390,7 +6389,7 @@ Canceled
 
 
 
-Mexico[edit]
+Mexico
 
 
 
@@ -6439,7 +6438,7 @@ Operational
 10 April 1995
 
 
-Netherlands[edit]
+Netherlands
 Main article: Nuclear energy in the Netherlands
 BorsseleDodewaard Nuclear power plants in the Netherlands(view)&#160;Active plants&#160;Closed plants
 
@@ -6493,7 +6492,7 @@ Shut down
 26 March 1969
 26 March 1997
 
-North Korea[edit]
+North Korea
 Main article: Nuclear power in North Korea
 
 
@@ -6578,7 +6577,7 @@ Unfinished
 
 2003
 
-Pakistan[edit]
+Pakistan
 Main article: Nuclear power in Pakistan
 ChashmaKarachi Nuclear power plants in Pakistan&#160;Active plants
 
@@ -6699,7 +6698,7 @@ Under construction
 (2022)
 
 
-Philippines[edit]
+Philippines
 Main article: Nuclear power in the Philippines
 
 
@@ -6738,7 +6737,7 @@ Finished; never entered service
 
 1986
 
-Poland[edit]
+Poland
 Main article: Nuclear energy in Poland
 
 
@@ -6889,7 +6888,7 @@ Planned
 (2027)&#91;56&#93;
 
 
-Romania[edit]
+Romania
 Main article: Nuclear power in Romania
 
 
@@ -6972,7 +6971,7 @@ Unfinished
 
 
 
-Russia[edit]
+Russia
 Main article: Nuclear power in Russia
 Akademik LomonosovBalakovoBashkirBeloyarskBilibinoGorkyKalininKaliningradKolaKostromaKurskLeningrad/Leningrad&#160;IINovovoronezh/Novovoronezh&#160;IIRostovSmolenskSouth&#160;UralTatarVoronezhObninskSeversk Nuclear power plants in Russia (view)&#160;Active plants&#160;Closed plants&#160;Unfinished plants&#160;Under construction plants
 
@@ -8141,7 +8140,7 @@ Unfinished
 5 July 1990
 
 
-Slovakia[edit]
+Slovakia
 Main article: Nuclear energy in Slovakia
 BohuniceMochovce Nuclear power stations in Slovakia (view)&#160;Active plants
 
@@ -8284,7 +8283,7 @@ Under construction
 
 
 
-Slovenia[edit]
+Slovenia
 Main article: Nuclear energy in Slovenia
 
 
@@ -8334,7 +8333,7 @@ Planned
 
 
 
-South Africa[edit]
+South Africa
 KoebergThyspuntSchulpfonteinBrazilBantamsklip Nuclear power plants in South Africa&#160;Active plants&#160;Sites of potential plants
 Main article: Nuclear energy in South Africa
 
@@ -8474,7 +8473,7 @@ Planned
 
 
 
-South Korea[edit]
+South Korea
 HanbitHanulShin HanulKoriShin KoriWolseongShin&#160;WolseongCheonji Nuclear plants in South Korea (view)
 &#160;Active plants&#160;Plants under construction&#160;Planned plants
 Main article: Nuclear power in South Korea
@@ -8841,7 +8840,7 @@ Operational
 26 February 2015
 
 
-Spain[edit]
+Spain
 AlmarazAscóCofrentesJosé CabreraSanta María de GaroñaTrilloVandellòsLemonizValdecaballeros Nuclear power plants in Spain (view)&#160;Active plants&#160;Closed plants&#160;Unfinished plants
 Main article: Nuclear power in Spain
 
@@ -9032,7 +9031,7 @@ Operational
 8 March 1988
 
 
-Sweden[edit]
+Sweden
 BarsebäckForsmarkOskarshamnR4RinghalsÅgesta Nuclear power plants in Sweden (view)&#160;Active plants&#160;Closed plants&#160;Unfinished plants
 Main article: Nuclear power in Sweden
 
@@ -9221,7 +9220,7 @@ Operational
 21 November 1983
 
 
-Switzerland[edit]
+Switzerland
 BeznauGösgenLeibstadtMühlebergLucens Switzerland Nuclear power plants (view)&#160;Active plants&#160;Closed plants
 Main article: Nuclear power in Switzerland
 
@@ -9320,7 +9319,7 @@ Shut down/in decommissioning
 6 November 1972
 20 December 2019
 
-Taiwan[edit]
+Taiwan
 JinshanKuoshengMaanshanLungmen Nuclear power plants in Taiwan (view)&#160;Active plants&#160;Closed plants&#160;Unfinished plants
 Main article: Nuclear power in Taiwan
 
@@ -9440,7 +9439,7 @@ Operational
 18 May 1985
 
 
-Turkey[edit]
+Turkey
 AkkuyuSinopİğneada Nuclear power stations in Turkey (view)&#160;Under construction&#160;Proposed plants
 Main article: Nuclear energy in Turkey
 
@@ -9603,7 +9602,7 @@ Planned
 
 
 
-Ukraine[edit]
+Ukraine
 ChernobylChyhyrynCrimeaKharkivKhmelnytskyiOdesaRivneSouth&#160;UkraineZaporizhzhia Nuclear power plants in Ukraine (view)&#160;Active plants&#160;Closed plants&#160;Unfinished plants
 Main article: Nuclear power in Ukraine
 
@@ -10102,7 +10101,7 @@ Operational
 17 September 1996
 
 
-United Arab Emirates[edit]
+United Arab Emirates
 Main article: Nuclear power in the United Arab Emirates
 
 
@@ -10174,7 +10173,7 @@ Under construction
 (2021)
 
 
-United Kingdom[edit]
+United Kingdom
 BerkeleyBradwellBradwell BCalder HallChapelcrossDounreayDungeness A, BHartlepoolHeysham 1,&#160;2Hinkley&#160;Point A,&#160;B,&#160;CHunterston A, BMoorsideOldburySizewell&#160;A,&#160;B,&#160;CTornessTrawsfynyddWinfrithWylfa Nuclear power plants in United Kingdom (view)&#160;Active plants&#160;Closed plants&#160;Planned plants&#160;Cancelled plants
 Main article: Nuclear power in the United Kingdom
 See also: Proposed nuclear power stations in the United Kingdom
@@ -10878,7 +10877,7 @@ Cancelled
 
 
 
-United States[edit]
+United States
 Main article: Nuclear power in the United States
 See also: List of cancelled nuclear reactors in the United States, Army Nuclear Power Program, and List of United States Naval reactors
 For plutonium production reactors, see Hanford Site and Savannah River Site.
@@ -12706,5 +12705,5 @@ Shut down/decommissioned
 December 1973
 13 February 1998
 
-See also[edit]
+See also
 .mw-parser-output .portal{border:solid #aaa 1px;padding:0}.mw-parser-output .portal.tleft{margin:0.5em 1em 0.5em 0}.mw-parser-output .portal.tright{margin:0.5em 0 0.5em 1em}.mw-parser-output .portal>ul{display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold}.mw-parser-output .portal>ul>li{display:table-row}.mw-parser-output .portal>ul>li>span:first-child{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portal>ul>li>span:last-child{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}
