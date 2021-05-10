@@ -55,6 +55,10 @@ for count, x in enumerate(temp_ingress_data, 0):
             temp_fuel_count.setData(temp_ingress_data[count - 4], temp_ingress_data[count - 3], temp_ingress_data[count - 2], temp_ingress_data[count - 1], temp_ingress_data[count])
             temp_data_ingress.data_for_export_spent_fuel_per_year_us.append(temp_fuel_count)
 
-for x in temp_data_ingress.data_for_export_spent_fuel_per_year_us:
+
+temp_ingress_data = temp_data_ingress.load_data("../data_lists/SCRAPED_WIKI_list_of_nuclear_reactors_2021.txt")
+for x in enumerate(temp_ingress_data, 0):
     print(x)
+
+
 
