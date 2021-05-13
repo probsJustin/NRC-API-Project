@@ -5,6 +5,7 @@
 class data_cleaner():
     def __init__(self):
         self.name = "Data Cleaning Tool v0.1"
+        self.author = "Justin Hagerty"
         self.current_file = list()
         self.data_to_remove = list()
         self.data_left_over = list()
@@ -37,3 +38,7 @@ class data_cleaner():
             return False
         else:
             return True
+
+
+data_cleaner_instance = data_cleaner()
+data_cleaner_instance.open_file("./example.txt")
